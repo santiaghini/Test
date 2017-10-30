@@ -1,0 +1,363 @@
+[
+      {
+         "text":"Estado de \u00e1nimo deprimido (tristeza, desesperanza, desamparo, inutilidad)",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausente"
+            },
+            {
+               "points":1,
+               "text":"Estas sensaciones las expresa solamente si se le pregunta"
+            },
+            {
+               "points":2,
+               "text":"Estas sensaciones las reporta espont\u00e1neamente"
+            },
+            {
+               "points":3,
+               "text":"Estas sensaciones no comunicadas verbalmente (p. ej.: expresi\u00f3n facial, postura, voz, tendencia al llanto)"
+            },
+            {
+               "points":4,
+               "text":"Manifiesta estas sensaciones espont\u00e1neamente en su comunicaci\u00f3n verbal y no verbal"
+            }
+         ]
+      },
+      {
+         "text":"Sentimientos de culpa",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausente"
+            },
+            {
+               "points":1,
+               "text":"Se culpa a s\u00ed mismo, cree haber decepcionado a la gente"
+            },
+            {
+               "points":2,
+               "text":"Tiene ideas de culpabilidad o medita sobre errores pasados o malas acciones"
+            },
+            {
+               "points":3,
+               "text":"Siente que la enfermedad actual es un castigo; sentimientos de culpa"
+            },
+            {
+               "points":4,
+               "text":"Oye voces acusatorias o de denuncia y/o experimenta alucinaciones visuales amenazantes"
+            }
+         ]
+      },
+      {
+         "text":"Suicidio",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausente"
+            },
+            {
+               "points":1,
+               "text":"Le parece que la vida no vale la pena ser vivida"
+            },
+            {
+               "points":2,
+               "text":"Desear\u00eda estar muerto o tiene pensamientos sobre la posibilidad de morirse"
+            },
+            {
+               "points":3,
+               "text":"Ideas de suicidio o amenazas"
+            },
+            {
+               "points":4,
+               "text":"Intentos de suicidio (cualquier intento serio)"
+            }
+         ]
+      },
+      {
+         "text":"Insomnio temprano",
+         "options":[
+            {
+               "points":0,
+               "text":"No tiene dificultad para quedarse dormido"
+            },
+            {
+               "points":1,
+               "text":"Dificultad ocasional para dormir (p. ej.: le toma m\u00e1s de media hora conciliar el sue\u00f1o)"
+            },
+            {
+               "points":2,
+               "text":"Dificultad para dormir todas las noches"
+            }
+         ]
+      },
+      {
+         "text":"Insomnio intermedio",
+         "options":[
+            {
+               "points":0,
+               "text":"No hay dificultad"
+            },
+            {
+               "points":1,
+               "text":"Se siente inquieto y perturbado durante la noche"
+            },
+            {
+               "points":2,
+               "text":"Se despierta durante la noche \u2013 levantarse de la cama (excepto por motivos de micci\u00f3n)"
+            }
+         ]
+      },
+      {
+         "text":"Insomnio tard\u00edo",
+         "options":[
+            {
+               "points":0,
+               "text":"No hay dificultad"
+            },
+            {
+               "points":1,
+               "text":"Se despierta a primeras horas de la madrugada, pero se vuelve a dormir"
+            },
+            {
+               "points":2,
+               "text":"No puede volver a dormirse si se levanta de la cama"
+            }
+         ]
+      },
+      {
+         "text":"Trabajo y actividades",
+         "options":[
+            {
+               "points":0,
+               "text":"No hay dificultad"
+            },
+            {
+               "points":1,
+               "text":"Ideas y sentimientos de incapacidad, fatiga o debilidad relacionadas con las actividades, el trabajo o los pasatiempos"
+            },
+            {
+               "points":2,
+               "text":"P\u00e9rdida de inter\u00e9s en las actividades, pasatiempos o el trabajo, bien sea reportado directamente por el paciente o indirectamente, en apat\u00eda, indecisi\u00f3n y vacilaci\u00f3n (piensa que debe forzarse a realizar sus actividades)"
+            },
+            {
+               "points":3,
+               "text":"Disminuci\u00f3n del tiempo actual dedicado a actividades o disminuci\u00f3n de la productividad"
+            },
+            {
+               "points":4,
+               "text":"Dej\u00f3 de trabajar por la enfermedad"
+            }
+         ]
+      },
+      {
+         "text":"Inhibici\u00f3n psicomotora (lentitud de pensamiento y lenguaje, dificultad para concentrarse, disminuci\u00f3n de la actividad motora)",
+         "options":[
+            {
+               "points":0,
+               "text":"Lenguaje y pensamiento normales"
+            },
+            {
+               "points":1,
+               "text":"Ligero retraso en el habla"
+            },
+            {
+               "points":2,
+               "text":"Evidente retraso en el habla"
+            },
+            {
+               "points":3,
+               "text":"Dificultad para expresarse"
+            },
+            {
+               "points":4,
+               "text":"Estupor completo"
+            }
+         ]
+      },
+      {
+         "text":"Agitaci\u00f3n psicomotora",
+         "options":[
+            {
+               "points":0,
+               "text":"Ninguna"
+            },
+            {
+               "points":1,
+               "text":"Juega con los dedos"
+            },
+            {
+               "points":2,
+               "text":"Juega con sus manos, cabello, etc."
+            },
+            {
+               "points":3,
+               "text":"No puede quedarse quieto ni permanecer sentado"
+            },
+            {
+               "points":4,
+               "text":"Retuerce las manos, se muerde las u\u00f1as, se tira de los cabellos, se muerde los labios"
+            }
+         ]
+      },
+      {
+         "text":"Ansiedad ps\u00edquica",
+         "options":[
+            {
+               "points":0,
+               "text":"No hay dificultad"
+            },
+            {
+               "points":1,
+               "text":"Tensi\u00f3n subjetiva e irritabilidad"
+            },
+            {
+               "points":2,
+               "text":"Preocupaci\u00f3n por peque\u00f1as cosas"
+            },
+            {
+               "points":3,
+               "text":"Actitud aprehensiva en la expresi\u00f3n o en el habla"
+            },
+            {
+               "points":4,
+               "text":"Expresa sus temores sin que le pregunten"
+            }
+         ]
+      },
+      {
+         "text":"Ansiedad som\u00e1tica (signos f\u00edsicos concomitantes de ansiedad tales como: gastrointestinales: boca seca, flatulencias, indigesti\u00f3n, diarrea, c\u00f3licos, eructos; cardiovasculares: palpitaciones, cefalea; respiratorios: hiperventilaci\u00f3n, suspiros; frecuencia urinaria incrementada; sudoraci\u00f3n)",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausente"
+            },
+            {
+               "points":1,
+               "text":"Leve"
+            },
+            {
+               "points":2,
+               "text":"Moderada"
+            },
+            {
+               "points":3,
+               "text":"Severa"
+            },
+            {
+               "points":4,
+               "text":"Incapacitante"
+            }
+         ]
+      },
+      {
+         "text":"S\u00edntomas som\u00e1ticos gastrointestinales",
+         "options":[
+            {
+               "points":0,
+               "text":"Ninguno"
+            },
+            {
+               "points":1,
+               "text":"P\u00e9rdida del apetito, pero a\u00fan come; sensaci\u00f3n de pesadez en el abdomen"
+            },
+            {
+               "points":2,
+               "text":"Dificultad en comer si no se le insiste; requiere laxantes o medicamentos para los s\u00edntomas gastrointestinales"
+            }
+         ]
+      },
+      {
+         "text":"S\u00edntomas som\u00e1ticos generales",
+         "options":[
+            {
+               "points":0,
+               "text":"Ninguno"
+            },
+            {
+               "points":1,
+               "text":"Pesadez en las extremidades, dorsalgias, cefalea, dolores musculares, p\u00e9rdida de energ\u00eda y fatigabilidad"
+            },
+            {
+               "points":2,
+               "text":"Cualquier s\u00edntoma bien definido"
+            }
+         ]
+      },
+      {
+         "text":"S\u00edntomas genitales (p.ej.: disminuci\u00f3n de la libido y trastornos menstruales)",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausentes"
+            },
+            {
+               "points":1,
+               "text":"Leves"
+            },
+            {
+               "points":2,
+               "text":"Severos"
+            }
+         ]
+      },
+      {
+         "text":"Hipocondr\u00eda",
+         "options":[
+            {
+               "points":0,
+               "text":"Ausente"
+            },
+            {
+               "points":1,
+               "text":"Preocupado de s\u00ed mismo (corporalmente)"
+            },
+            {
+               "points":2,
+               "text":"Preocupado por su salud"
+            },
+            {
+               "points":3,
+               "text":"Se lamenta constantemente, solicita ayuda"
+            },
+            {
+               "points":4,
+               "text":"Ideas delirantes hipocondriacas"
+            }
+         ]
+      },
+      {
+         "text":"P\u00e9rdida de peso",
+         "options":[
+            {
+               "points":0,
+               "text":"Sin p\u00e9rdida de peso"
+            },
+            {
+               "points":1,
+               "text":"P\u00e9rdida de peso leve o en duda"
+            },
+            {
+               "points":2,
+               "text":"P\u00e9rdida de peso evidente o severa"
+            }
+         ]
+      },
+      {
+         "text":"Introspecci\u00f3n",
+         "options":[
+            {
+               "points":0,
+               "text":"Reconoce que est\u00e1 deprimido o enfermo"
+            },
+            {
+               "points":1,
+               "text":"Reconoce su enfermedad pero atribuye la causa a la mala alimentaci\u00f3n, clima, exceso de trabajo, virus, necesidad de descanso, etc."
+            },
+            {
+               "points":2,
+               "text":"Niega rotundamente estar enfermo"
+            }
+         ]
+      }
+   ]
